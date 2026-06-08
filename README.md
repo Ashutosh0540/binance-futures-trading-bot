@@ -1,6 +1,5 @@
 # Binance Futures Trading Bot
 
-A Python-based trading bot built for the Primetrade.ai Python Developer Internship Assignment.
 
 The application integrates with Binance Futures Demo Trading (Testnet) and supports placing Market and Limit orders through both a Command Line Interface (CLI) and a lightweight Streamlit-based web dashboard.
 
